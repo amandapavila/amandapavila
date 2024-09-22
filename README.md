@@ -1,6 +1,6 @@
 - Hi 👋, my name is Amanda
 - 💡 Electrical engineering
-- 📚 MSc student
+- 📚 DSc student
 
 <div>
   <a href="https://github.com/amandapavila">
